@@ -1,5 +1,5 @@
 # Hi!
-<img src=deerpfp4x.png style="max-width:300px">
+<img src=deerpfp.gif style="max-width:300px">
 
 I'm Lena (She/Her/Deer)<br>
 You can learn more about me on [my tumblr's about page](https://lensdeer.tumblr.com/about).
