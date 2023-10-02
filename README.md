@@ -2,7 +2,7 @@
 <img src=deerpfp.gif style="width: 84px;">
 
 Hi! I'm Lena (She/Her/Deer)<br>
-I'm a Linguist and Translator with formal training in English, Spanish and Japanese translation.
+I'm a Linguist and Translator with formal training in English, Spanish and Japanese translation.<br>
 You can learn more about me on [my website's "About Me" page](https://lensdeer.neocities.org/aboutme).
 
 I'm literate in multiple programming languages, but I can only really write HTML, CSS, Javascript and some very basic Python.<br>
