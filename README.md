@@ -1,5 +1,5 @@
 # Hi!
-<img src=deerpfp.gif style="width: 420px; image-rendering: pixelated">
+<img src=deerpfp.gif style="width: 84px;">
 
 Hi! I'm Lena (She/Her/Deer)<br>
 I'm a Linguist and Translator with formal training in English, Spanish and Japanese translation.
