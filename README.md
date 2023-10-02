@@ -3,7 +3,7 @@
 
 Hi! I'm Lena (She/Her/Deer)<br>
 I'm a Linguist and Translator with formal training in English, Spanish and Japanese translation.
-You can learn more about me on [my website's "About Me" page](https://lensdeer.neocities.org/about).
+You can learn more about me on [my website's "About Me" page](https://lensdeer.neocities.org/aboutme).
 
 I'm literate in multiple programming languages, but I can only really write HTML, CSS, Javascript and some very basic Python.<br>
 I'm fluent in Spanish, English, Japanese, Portuguese and Toki Pona, and I'm currently learning Lojban and designing a conlang based on Toki Pona and Sai and Alex Fink's Gripping Language.
