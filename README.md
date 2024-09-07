@@ -1,16 +1,16 @@
 <div align=center style="image-rendering: pixelated">
 <img src="assets/header.png" alt="A pixelart picture of my fursona's head peeking in from behind the screen" style="max-width: min(50%, 462px)">
 
-Hi! I'm Lena/Lens (She/They || It/Deer). I make stuff and think about stuff.
-Artist, Linguist, Translator, Hobbyist frontend dev.
-Mediocre polymath and obnoxious piece of shit.
+Hi! I'm **Lena/Lens** (She/They || It/Deer). I make stuff and think about stuff. <br>
+Artist, Linguist, Translator, Hobbyist frontend dev. <br>
+Mediocre polymath and obnoxious piece of shit. <br>
 I like deer.
 
 <img src="assets/bweh.png" alt="A sticker-like picture of a feral version of my fursona saying 'bweh'" width=200px>
 
 
 
-I am proficient in multiple tools and programming languages:
+**I am proficient in multiple tools and programming languages:** <br>
 <img alt="arch" src="assets/skills/arch.png" width=32px>
 <img alt="aseprite" src="assets/skills/aseprite.png" width=32px>
 <img alt="bash" src="assets/skills/bash.png" width=32px>
