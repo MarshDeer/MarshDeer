@@ -11,24 +11,24 @@ I like deer.
 
 
 I am proficient in multiple tools and programming languages:
-<img alt="arch" src="assets/arch.png" width=32px>
-<img alt="aseprite" src="assets/aseprite.png" width=32px>
-<img alt="bash" src="assets/bash.png" width=32px>
-<img alt="bitwig" src="assets/bitwig.png" width=32px>
-<img alt="css" src="assets/css.png" width=32px>
-<img alt="docker" src="assets/docker.png" width=32px>
-<img alt="excel" src="assets/excel.png" width=32px>
-<img alt="git" src="assets/git.png" width=32px>
-<img alt="html" src="assets/html.png" width=32px>
-<img alt="illustrator" src="assets/illustrator.png" width=32px>
-<img alt="javascript" src="assets/javascript.png" width=32px>
-<img alt="krita" src="assets/krita.png" width=32px>
-<img alt="markdown" src="assets/markdown.png" width=32px>
-<img alt="musescore" src="assets/musescore.png" width=32px>
-<img alt="photoshop" src="assets/photoshop.png" width=32px>
-<img alt="python" src="assets/python.png" width=32px>
-<img alt="regex" src="assets/regex.png" width=32px>
-<img alt="vim" src="assets/vim.png" width=32px>
+<img alt="arch" src="assets/skills/arch.png" width=32px>
+<img alt="aseprite" src="assets/skills/aseprite.png" width=32px>
+<img alt="bash" src="assets/skills/bash.png" width=32px>
+<img alt="bitwig" src="assets/skills/bitwig.png" width=32px>
+<img alt="css" src="assets/skills/css.png" width=32px>
+<img alt="docker" src="assets/skills/docker.png" width=32px>
+<img alt="excel" src="assets/skills/excel.png" width=32px>
+<img alt="git" src="assets/skills/git.png" width=32px>
+<img alt="html" src="assets/skills/html.png" width=32px>
+<img alt="illustrator" src="assets/skills/illustrator.png" width=32px>
+<img alt="javascript" src="assets/skills/javascript.png" width=32px>
+<img alt="krita" src="assets/skills/krita.png" width=32px>
+<img alt="markdown" src="assets/skills/markdown.png" width=32px>
+<img alt="musescore" src="assets/skills/musescore.png" width=32px>
+<img alt="photoshop" src="assets/skills/photoshop.png" width=32px>
+<img alt="python" src="assets/skills/python.png" width=32px>
+<img alt="regex" src="assets/skills/regex.png" width=32px>
+<img alt="vim" src="assets/skills/vim.png" width=32px>
 
 I am also fluent in Spanish, English, Japanese, Portuguese and Toki Pona.
 I am currently learning Lojban and slowly working on designing a touch-mediated Tokiponido
