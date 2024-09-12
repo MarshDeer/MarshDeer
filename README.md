@@ -1,5 +1,5 @@
 <div align=center style="image-rendering: pixelated">
-<img src="assets/header.png" alt="A pixelart picture of my fursona's head peeking in from behind the screen" style="width: 100%; max-width: 400px;">
+<img src="assets/header.png" alt="A pixelart picture of my fursona's head peeking in from behind the screen" style="width: 400px;">
 
 **_Hi!_**  
 I'm **Lena&nbsp;/&nbsp;Lens**  
