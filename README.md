@@ -28,12 +28,14 @@ I make stuff and think about stuff.
 <img alt="html" src="assets/skills/html.png" width=32px>
 <img alt="illustrator" src="assets/skills/illustrator.png" width=32px>
 <img alt="javascript" src="assets/skills/javascript.png" width=32px>  
+<img alt="kdenlive" src="assets/skills/kdenlive.png" width=32px>
 <img alt="krita" src="assets/skills/krita.png" width=32px>
 <img alt="markdown" src="assets/skills/markdown.png" width=32px>
 <img alt="musescore" src="assets/skills/musescore.png" width=32px>
 <img alt="photoshop" src="assets/skills/photoshop.png" width=32px>
-<img alt="python" src="assets/skills/python.png" width=32px>
-<img alt="regex" src="assets/skills/regex.png" width=32px>  
+<img alt="python" src="assets/skills/python.png" width=32px>  
+<img alt="regex" src="assets/skills/regex.png" width=32px>
+<img alt="uxn" src="assets/skills/uxn.png" width=32px>
 <img alt="vim" src="assets/skills/vim.png" width=32px>
 
 I am fluent in **Spanish**, **English**, **Japanese**, **Portuguese** and **Toki Pona**.  
